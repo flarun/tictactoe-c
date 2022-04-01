@@ -1,5 +1,5 @@
-#ifndef tictactoe
-#define tictactoe
+#ifndef TICTACTOE
+#define TICTACTOE
 
 #include <stdbool.h>
 
