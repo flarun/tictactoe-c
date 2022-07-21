@@ -5,6 +5,7 @@
 #include "tictactoe.h"
 
 int tableData[9];
+
 programIsRunning = true;
 gameIsRunning = false;
 menuStorage = 0;
